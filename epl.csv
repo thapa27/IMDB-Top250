@@ -1,0 +1,21 @@
+Rk,Squad,MP,W,D,L,GF,GA,GD,Pts,Pts/MP,xG,xGA,xGD,xGD/90,Last 5,Attendance,Top Team Scorer,Goalkeeper
+1,Liverpool,12,10,1,1,24,8,+16,31,2.58,23.2,10.6,+12.6,+1.05,W D W W W,"60,268",Mohamed Salah - 10,Caoimhín Kelleher
+2,Arsenal,13,7,4,2,26,14,+12,25,1.92,21.9,13.7,+8.2,+0.63,D L D W W,"60,316","Kai Havertz, Bukayo Saka - 5",David Raya
+3,Brighton,13,6,5,2,22,17,+5,23,1.77,19.0,21.0,-1.9,-0.15,D L W W D,"33,266",Danny Welbeck - 6,Bart Verbruggen
+4,Manchester City,12,7,2,3,22,17,+5,23,1.92,24.1,15.6,+8.6,+0.71,W W L L L,"52,747",Erling Haaland - 12,Ederson
+5,Chelsea,12,6,4,2,23,14,+9,22,1.83,22.4,16.2,+6.2,+0.52,L W D D W,"39,570","Cole Palmer, Nicolas Jackson - 7",Robert Sánchez
+6,Nott'ham Forest,13,6,4,3,16,13,+3,22,1.69,16.1,12.9,+3.2,+0.25,W W L L W,"29,920",Chris Wood - 9,Matz Sels
+7,Brentford,13,6,2,5,26,23,+3,20,1.54,21.7,21.5,+0.1,+0.01,W L W D W,"16,962","Yoane Wissa, Bryan Mbeumo - 8",Mark Flekken
+8,Tottenham,12,6,1,5,27,13,+14,19,1.58,23.8,15.1,+8.7,+0.73,W L W L W,"61,398","James Maddison, Brennan Johnson - 5",Guglielmo Vicario
+9,Aston Villa,12,5,4,3,19,19,0,19,1.58,19.2,14.6,+4.7,+0.39,W D L L D,"41,693",Ollie Watkins - 6,Emiliano Martínez
+10,Newcastle Utd,13,5,4,4,14,14,0,19,1.46,18.0,17.2,+0.7,+0.06,L W W L D,"52,203","Alexander Isak, Harvey Barnes - 4",Nick Pope
+11,Bournemouth,13,5,3,5,20,19,+1,18,1.38,23.7,15.8,+7.9,+0.61,D W L L W,"11,217",Justin Kluivert - 5,Kepa Arrizabalaga
+12,Fulham,12,5,3,4,17,17,0,18,1.50,18.0,14.0,+4.0,+0.33,L D W W L,"25,998",Raúl Jiménez - 4,Bernd Leno
+13,Manchester Utd,12,4,4,4,13,13,0,16,1.33,18.2,18.3,-0.1,-0.01,W L D W D,"73,667",Alejandro Garnacho - 3,André Onana
+14,West Ham,13,4,3,6,17,24,-7,15,1.15,17.4,23.8,-6.4,-0.49,W L D W L,"62,468","Tomáš Souček, Jarrod Bowen - 3",Alphonse Areola
+15,Everton,12,2,5,5,10,17,-7,11,0.92,13.1,17.1,-3.9,-0.33,W D L D D,"38,983",Dwight McNeil - 3,Jordan Pickford
+16,Leicester City,13,2,4,7,16,27,-11,10,0.77,13.2,25.2,-11.9,-0.92,L D L L L,"31,822","Jamie Vardy, Facundo Buonanotte - 4",Mads Hermansen
+17,Crystal Palace,13,1,6,6,11,18,-7,9,0.69,16.8,19.2,-2.4,-0.19,W D L D D,"25,136",Jean-Philippe Mateta - 3,Dean Henderson
+18,Wolves,13,2,3,8,22,32,-10,9,0.69,13.3,24.1,-10.8,-0.83,D D W W L,"31,125",Matheus Cunha - 7,José Sá
+19,Ipswich Town,13,1,6,6,13,24,-11,9,0.69,12.3,26.6,-14.3,-1.10,L D W D L,"29,871",Liam Delap - 6,Arijanet Muric
+20,Southampton,13,1,2,10,10,25,-15,5,0.38,14.1,27.2,-13.1,-1.00,L W L L D,"31,163","Adam Armstrong, Cameron Archer - 2",Aaron Ramsdale
